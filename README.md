@@ -15,8 +15,6 @@ Syntax highlighted code block
 ## Header 2
 ### Header 3
 
-Running para
-[CBC](https://cbc.ca)
   
 
 - Bulleted
@@ -29,6 +27,9 @@ Running para
 
 [Link](url) and ![Image](src)
 ```
+
+Running para
+[CBC](https://cbc.ca)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
